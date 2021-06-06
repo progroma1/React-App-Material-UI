@@ -1,23 +1,34 @@
 import logo from './logo.svg';
 import './App.css';
+import {AppBar, Container, IconButton, Toolbar, Typography, Box } from '@material-ui/core';
+import MenuIcon from '@material-ui/icons/Menu';
+import Button from '@material-ui/core/Button';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-         Learning material ui
-        </a>
-      </header>
+     <AppBar position="fixed">
+       <Container fixed>
+          <Toolbar>
+            <IconButton edge="start"  
+              color="inherit" aria-label="menu"
+            >
+              <MenuIcon />
+            </IconButton>
+            <Typography variant="h6">
+              Three Screen Solutions
+            </Typography>
+            <Box mr={3}>
+              <Button color="inherit" variant="outlined">
+                Log in
+              </Button>
+            </Box>
+            <Button color="secondary" variant="contained">
+                Sign Up
+              </Button>
+          </Toolbar>
+       </Container>
+     </AppBar>
     </div>
   );
 }
