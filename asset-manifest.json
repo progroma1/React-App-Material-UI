@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/React-App-Material-UI/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/github.io/React-App-Material-UI/static/js/main.bf88582b.chunk.js",
+    "main.js.map": "/github.io/React-App-Material-UI/static/js/main.bf88582b.chunk.js.map",
+    "runtime-main.js": "/github.io/React-App-Material-UI/static/js/runtime-main.1809be9e.js",
+    "runtime-main.js.map": "/github.io/React-App-Material-UI/static/js/runtime-main.1809be9e.js.map",
+    "static/js/2.b3a1d082.chunk.js": "/github.io/React-App-Material-UI/static/js/2.b3a1d082.chunk.js",
+    "static/js/2.b3a1d082.chunk.js.map": "/github.io/React-App-Material-UI/static/js/2.b3a1d082.chunk.js.map",
+    "static/js/3.1d0c83d4.chunk.js": "/github.io/React-App-Material-UI/static/js/3.1d0c83d4.chunk.js",
+    "static/js/3.1d0c83d4.chunk.js.map": "/github.io/React-App-Material-UI/static/js/3.1d0c83d4.chunk.js.map",
+    "index.html": "/github.io/React-App-Material-UI/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/github.io/React-App-Material-UI/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.b3a1d082.chunk.js.LICENSE.txt": "/github.io/React-App-Material-UI/static/js/2.b3a1d082.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1809be9e.js",
+    "static/js/2.b3a1d082.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.bf88582b.chunk.js"
+  ]
+}
