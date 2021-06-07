@@ -101,7 +101,7 @@ function App() {
            align="center" 
            color="textPrimary" 
            gutterBottom>
-           Create the Future of Entertainment
+           Create the Future of YOUR Entertainment
            </Typography>
            <Typography 
            variant="h5" 
